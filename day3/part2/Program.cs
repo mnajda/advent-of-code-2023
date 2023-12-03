@@ -97,8 +97,6 @@ class Program
 
     static int Solve(String[] input)
     {
-        var gearRatios = new List<int>();
-
         var maxX = input.Length;
         var maxY = input[0].Length;
 
