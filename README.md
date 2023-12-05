@@ -10,3 +10,4 @@ Solutions for [Advent of Code 2023](https://adventofcode.com/2023).
 | 2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | Rust | [day2](https://github.com/mnajda/advent-of-code-2023/tree/main/day2) |
 | 3 | [Gear Ratios](https://adventofcode.com/2023/day/3) | C# | [day3](https://github.com/mnajda/advent-of-code-2023/tree/main/day3) |
 | 4 | [Scratchcards](https://adventofcode.com/2023/day/4) | Python | [day4](https://github.com/mnajda/advent-of-code-2023/tree/main/day4) |
+| 5 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | Nim | [day5](https://github.com/mnajda/advent-of-code-2023/tree/main/day5) |
