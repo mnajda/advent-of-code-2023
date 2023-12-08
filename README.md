@@ -13,3 +13,4 @@ Solutions for [Advent of Code 2023](https://adventofcode.com/2023).
 | 5 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | Nim | [day5](https://github.com/mnajda/advent-of-code-2023/tree/main/day5) |
 | 6 | [Wait For It](https://adventofcode.com/2023/day/6) | Go | [day6](https://github.com/mnajda/advent-of-code-2023/tree/main/day6) |
 | 7 | [Camel Cards](https://adventofcode.com/2023/day/7) | Kotlin | [day7](https://github.com/mnajda/advent-of-code-2023/tree/main/day7) |
+| 8 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | Zig | [day8](https://github.com/mnajda/advent-of-code-2023/tree/main/day8) |
